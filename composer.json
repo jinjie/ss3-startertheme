@@ -1,0 +1,13 @@
+{
+    "name": "jinjie/startertheme",
+    "description": "My own starter theme",
+    "type": "silverstripe-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kong Jin Jie",
+            "email": "jinjie@swiftdev.sg"
+        }
+    ],
+    "require": {}
+}
